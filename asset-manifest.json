@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.d080eed5.css",
+    "main.js": "/Weather-App/static/js/main.7dd08f93.js",
+    "static/js/787.8931933b.chunk.js": "/Weather-App/static/js/787.8931933b.chunk.js",
+    "static/media/clouds.jpg": "/Weather-App/static/media/clouds.23a94f818047fe92e253.jpg",
+    "static/media/mist.jpg": "/Weather-App/static/media/mist.60c66e5c653c0400e645.jpg",
+    "static/media/wind.jpg": "/Weather-App/static/media/wind.ea68389bfc66a51a6e29.jpg",
+    "static/media/defaultImg.jpg": "/Weather-App/static/media/defaultImg.d20dc11beef1863c5c2c.jpg",
+    "static/media/fog.jpg": "/Weather-App/static/media/fog.a5bfa90bdca5e76fb2c5.jpg",
+    "static/media/haze.jpg": "/Weather-App/static/media/haze.3e5b770237e930eab236.jpg",
+    "static/media/snow.jpg": "/Weather-App/static/media/snow.b3ce0d686b0f12b6cf19.jpg",
+    "static/media/clear.jpg": "/Weather-App/static/media/clear.918e8cbd2924b8ce329b.jpg",
+    "static/media/rain.jpg": "/Weather-App/static/media/rain.b6068649794af4313be2.jpg",
+    "static/media/drizzlee.jpg": "/Weather-App/static/media/drizzlee.bcac7aff797d8f5a9567.jpg",
+    "static/media/atmosphere.jpg": "/Weather-App/static/media/atmosphere.0f83aa93ce04ed0c132a.jpg",
+    "static/media/default.jpg": "/Weather-App/static/media/default.f47e592a1e0e6d2185f2.jpg",
+    "index.html": "/Weather-App/index.html",
+    "main.d080eed5.css.map": "/Weather-App/static/css/main.d080eed5.css.map",
+    "main.7dd08f93.js.map": "/Weather-App/static/js/main.7dd08f93.js.map",
+    "787.8931933b.chunk.js.map": "/Weather-App/static/js/787.8931933b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d080eed5.css",
+    "static/js/main.7dd08f93.js"
+  ]
+}
