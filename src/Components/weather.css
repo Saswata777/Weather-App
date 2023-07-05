@@ -1,0 +1,156 @@
+.container{
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    /* background-color: red; */
+    background-size: cover;
+    /* left: 4%; */
+    top: 40px;
+    border-radius: 15px;
+    display: flex;
+    /* background: fixed; */
+}
+
+.display{
+    position: relative;
+    width: 60%;
+    height: 100%;
+    border-radius: 15px 0 0 15px;
+}
+
+.search_section{
+    position: relative;
+    width: 35%;
+    height: 90%;
+    top: 5%;
+    left: 3%;
+    border-radius:  10px ;   
+    background: rgba(100, 101, 107, 0.594);
+    backdrop-filter: blur(3px);
+
+}
+
+.search_bar{
+    position: relative;
+    width: 70%;
+    background: rgba(100, 101, 107, 0.594);
+    backdrop-filter: blur(3px);
+    top: 40px;
+    left: 10%;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: 25px;
+    
+}
+
+.search_button{
+    position: relative;
+    top: 40px;
+    left: 10%;
+    /* border: 1px solid white; */
+    width: 50px;
+    font-size: 30px;
+    color: white;
+}
+
+
+.search_info{
+    position: relative;
+    width: 80%;
+    height: 50%;
+    top: 35%;
+    left: 10%;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+
+}
+
+.search_info_heading{
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.search_info_content{
+    position: relative;
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.search_info_content div{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    /* font-size: 1rem; */
+    color: white;
+    /* color: rgb(0, 0, 0); */
+}
+
+.search_info_content div p{
+    color: white;
+}
+
+
+
+
+
+.main_info{
+    position: relative;
+    top: 10%;
+    left: 5%;
+    width: 95%;
+    display: flex;
+    /* border: 1px solid white; */
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(240, 248, 255, 0.381);
+}
+
+.tem{
+    width: 30%;
+    font-size: 6rem;
+    /* border-right: 1px solid white ; */
+    height: 90%;
+}
+
+.location_info{
+    width: 40%;
+    /* border-right: 1px solid white; */
+}
+.location_name{
+    font-size: 3rem;
+}
+
+
+.atmosphere_info{
+    width: 30%;
+}
+
+.current-time{
+    position: relative;
+    top: 60%;
+    left: 10%;
+    width: 30%;
+    display: flex;
+    /* border: 1px solid white; */
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(240, 248, 255, 0.381);
+    font-size: 50px;
+}
+
+
+.atm-condition{
+    font-size: 3rem;
+}
+
+.date-time{
+    font-size: 25px;
+}
+
+.atm-icon-symb{
+    position: relative;
+    left: 50%;
+}
