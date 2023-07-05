@@ -11,7 +11,7 @@ import ReactAnimatedWeather from 'react-animated-weather';
 
 // import atmosphere from './Images/atmosphere.jpg'
 // import sunny from './Images/sunny.jpg'
-// import thunderstorm from './Images/thunderstorm.jpg'
+import thunderstorm from './Images/thunderstorm.jpg'
 
 import clear from './Images/clear.jpg'
 import clouds from './Images/clouds.jpg'
@@ -142,6 +142,9 @@ const Weather = () => {
             case "Clear":
               setWeatherIcon("CLEAR_DAY");
               setBackground(clear);
+              case "Thunderstorm":
+                setWeatherIcon("RAIN");
+                setBackground(thunderstorm);
           }
         }
       }, [weather]);
